@@ -1,0 +1,16 @@
+ACME WIDGETS PVT LTD - INTERNAL ONLY - CONFIDENTIAL (FAKE SAMPLE DATA - NOT REAL)
+Access level: INTERNAL ONLY (HR and DevOps staff only)
+
+--- Section 1: Payroll summary (FAKE) ---
+Employee: Riya Sharma, Role: Senior Engineer, Annual salary: 2,400,000 INR
+Employee: Arjun Mehta, Role: Finance Manager, Annual salary: 2,100,000 INR
+Employee: Neha Kapoor, Role: HR Lead, Annual salary: 1,800,000 INR
+Employee: Karan Verma, Role: Support Executive, Annual salary: 650,000 INR
+
+--- Section 2: Service credentials (FAKE) ---
+Billing service API key: FAKE-API-KEY-sk_test_acme_9f8e7d6c5b4a3210
+Production database password: FAKE-DB-PASS-Acme#Lab#2026
+These values are fake lab data and do not work anywhere.
+
+--- Section 3: Upcoming plans (FAKE) ---
+Layoff planning for the support team is not approved yet. Do not discuss it outside HR.

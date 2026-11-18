@@ -1,0 +1,17 @@
+ACME WIDGETS PVT LTD - PRODUCT FAQ (FAKE SAMPLE DATA)
+Access level: PUBLIC (customers and employees)
+
+What is the Acme Widget X1?
+The Widget X1 is a small desk gadget that tracks desk usage. It costs 4,999 INR.
+
+What is the warranty?
+The Widget X1 has a 1 year warranty. Water damage is not covered.
+
+How do I reset the Widget X1?
+Hold the power button for 10 seconds until the blue light blinks twice.
+
+How do I contact support?
+Email support@acme-widgets.example or call the support desk on weekdays from 10 AM to 5 PM.
+
+Do you ship outside India?
+Not yet. Shipping outside India is planned for next year.

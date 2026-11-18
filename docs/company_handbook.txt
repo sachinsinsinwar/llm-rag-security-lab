@@ -1,0 +1,15 @@
+ACME WIDGETS PVT LTD - EMPLOYEE HANDBOOK (FAKE SAMPLE DATA)
+Access level: PUBLIC (all employees)
+
+Working hours: Acme Widgets works Monday to Friday, 9:30 AM to 6:00 PM IST.
+Remote work: Employees may work from home up to 2 days per week with manager approval.
+
+Leave policy: Every employee gets 18 days of paid leave per year, plus 10 public holidays.
+Unused leave up to 6 days can be carried over to the next year.
+Sick leave of more than 2 days needs a doctor's note.
+
+Office locations: The head office is in Pune. A small support office is in Bengaluru.
+The reception desk is open from 9:00 AM to 6:30 PM.
+
+Expense claims: Travel and meal expenses must be submitted within 30 days with receipts.
+Claims under 2,000 INR are approved by the team lead. Larger claims go to the finance manager.

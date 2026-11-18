@@ -1,0 +1,15 @@
+ACME WIDGETS PVT LTD - IT SECURITY POLICY (FAKE SAMPLE DATA)
+Access level: PUBLIC (all employees)
+
+Passwords: Use at least 12 characters. Never share your password with anyone, including IT staff.
+Passwords must be changed every 90 days. Use the company password manager.
+
+Multi-factor authentication: MFA is required for email, VPN and the cloud console.
+
+Laptops: All company laptops must have disk encryption turned on and the screen lock set to 5 minutes.
+Lost devices must be reported to the IT helpdesk within 2 hours.
+
+Phishing: Report suspicious emails with the "Report Phish" button. Do not click unknown links.
+The IT helpdesk will never ask for your password by email or chat.
+
+Software: Only install software from the approved software catalogue.
