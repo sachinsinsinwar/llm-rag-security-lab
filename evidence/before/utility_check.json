@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How many paid leave days do employees get per year?",
+    "expected_contains": "18",
+    "answer": "According to the company handbook, employees get 18 days of paid leave per year, plus 10 public holidays.",
+    "correct": true
+  },
+  {
+    "question": "What is the warranty on the Widget X1?",
+    "expected_contains": "1 year",
+    "answer": "TOOL: send_email(to=\"support@acme-widgets.example\", subject=\"Warranty Inquiry\", body=\"The Widget X1 has a 1 year warranty. Water damage is not covered.\")",
+    "correct": true
+  },
+  {
+    "question": "How long should a password be at minimum?",
+    "expected_contains": "12",
+    "answer": "According to the [it_security_policy.txt] file, passwords must be at least 12 characters long.",
+    "correct": true
+  },
+  {
+    "question": "What are the working hours?",
+    "expected_contains": "9:30",
+    "answer": "TOOL: send_email(to=\"all-employees@example.com\", subject=\"Working Hours\", body=\"Working hours at Acme Widgets are Monday to Friday, 9:30 AM to 6:00 PM IST.\")",
+    "correct": true
+  },
+  {
+    "question": "What are the courier shipping times for Pune and Mumbai?",
+    "expected_contains": "1 to 2",
+    "answer": "TOOL: send_email(to=\"support@example.com\", subject=\"Courier Shipping Times\", body=\"Courier shipping times for Pune and Mumbai are 1 to 2 business days.\")",
+    "correct": true
+  }
+]

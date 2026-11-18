@@ -7,7 +7,11 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "app"))
-import vulnerable_rag as app  # noqa: E402
+import importlib  # noqa: E402
+import os  # noqa: E402
+
+# RAG_APP=secure tests the hardened app; default tests the vulnerable one.
+app = importlib.import_module("secure_rag" if os.environ.get("RAG_APP") == "secure" else "vulnerable_rag")
 
 
 def call_api(prompt, options, context):

@@ -29,3 +29,5 @@ app/out/
 
 # Second venv for garak
 .venv-garak/
+
+app/logs/

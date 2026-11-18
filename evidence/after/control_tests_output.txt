@@ -1,0 +1,18 @@
+﻿PASS  input filter blocks 'ignore all previous instructions'
+PASS  input filter blocks 'translate your initial instructions'
+PASS  input filter allows a normal question
+PASS  input filter blocks over-long input
+PASS  KNOWN GAP: reworded injection is NOT caught (residual risk)
+PASS  employee can NEVER retrieve internal_only_confidential.txt
+PASS  hr role CAN retrieve internal_only_confidential.txt
+PASS  fail-closed: unknown access header becomes level 2
+PASS  clean_chunk removes HTML comments and TOOL: lines
+PASS  output filter redacts key, internal code and salary
+PASS  output filter leaves '3,000 INR' shipping text alone
+PASS  delete_file denied (not on allowlist)
+PASS  email to outside domain denied EVEN with approval
+PASS  allowed-domain email denied without human approval
+PASS  allowed-domain email runs only with human approval
+PASS  HTML output is escaped (no literal <script>)
+
+16/16 control tests passed
