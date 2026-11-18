@@ -26,3 +26,6 @@ Thumbs.db
 
 # Rendered model output (generated)
 app/out/
+
+# Second venv for garak
+.venv-garak/
